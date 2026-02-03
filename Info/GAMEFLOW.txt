@@ -1,0 +1,43 @@
+GAMEFLOW
+
+Starting Positions:
+	
+	Once the map has been generated at the start of the match, the Player whose Servant (Player's Character) has the higher Agility stat will be given first choice on which tile to choose as starting position.
+	After this, the Agility Stat will determine the order in which players take their turns. Should they tie, the Servant with Higher Luck will go first. SHould this also be an unlikely draw, it will be decided randomly.
+
+	Each Player possesses 4 Skill Cards, unique to their Servant, being: Buster (Offensive Skills), Arts (Defensive Skills), Quick, (Movement Skills) and Noble Phantasm (Final Attack); the first 3 of these can be activated by 	expending a variable amount of Command Spells, a resource that each player starts the game with, having the MAX AMOUNT OF 3. At the beginning of each turn, that Turn Player recovers 1 Command Spell, if they have less than 3.
+	
+Movement Phase:
+
+	The starting Player will begin their Movement Phase, in which their Servant can be moved UP TO 2 Tiles in a single turn, through any unoccupied Tile. The tiles have various effects on gameplay, mostly Stat changes, which will 	remain hidden at the start of the Match. Each Tile will have its effect revealed only when a player lands on it at the end of their Movement Phase (thus, starting position Tiles remain hidden). If at the end of Movement an Enemy 	Servant is in Combat Range (most of the time meaning they are on a Tile adjacent to the one the Turn Player has stopped on), then the Turn Player may choose to start a Battle Phase.
+
+Battle Phase:
+
+	The Battle Phase is divided into two subphases: Skill Activation and Damage Calculation. In the first, the attacking player may choose to expend Command Spells to Activate one or more Skills. In response to a skill activation or 	an attack declaration the attacked Player can also choose to activate their own Servant's skills in response. The resolution of these effects is linear: though the other player can respond, the first skill declared active will 	have its effects applied first, then the second, and so on. If a Player activates a skill, and the other player involved in combat chooses not to activate one of their own, the former can choose to activate a second, starting a 	new chain.
+
+	Once the effects of the various Skills have been applied, Damage Calculation will occur: a simple animation in which the attacking Servant strikes the defending one, dealing damage equal to the attacker's Strength stat minus the 	defender's Endurance Stat, plus any modifiers rom unique effects.
+	
+	A Player's Turn concludes once the Battle Phase has finished, unless a Movement Skill that allows them to reposition after combat is active.
+
+The Noble Phantasm (To be added later):
+	
+	The most unique trait about a Servant. Since the characters are all related to myths and history, a Noble Phantasm is something synonymous with the Servant and their legend, like King Arthur's Excalibur. They're translated into 	gameplay as the strongest attack a Servant can use, be it a large source of damage or a power-up much greater than normal Skills can provide. In game, the turn player may choose, instead of attacking, to use their NP, declaring 	the activation at any point during the Skill Activation Subphase like any other Skill: in this case, regardless of activation timing, the Noble Phantasm will always trigger last, allowing both Players to stack the effects of 	their Skills as much as possible. A damaging Noble Phantasm uses the attacker's NP Stat for damage calculation instead of their Strength, and can only be used ONCE per match, making it a risky trump card.
+
+	To emphasize this, any Servant that uses their Noble Phantasm is afflicted with a unique passive Debuff at the end of the Battle Phase, called True Name Revealed, that remains active until the end of the match.
+
+NP Clash:
+	
+	A Player targeted by an NP may choose to use their own NP in response to the attacker's. In that case the damage formula becomes: (ATTACKER NP - DEFENDER NP) - DEFENDER END = X DMG.
+
+
+Modes (To be dded at a MUCH later date):
+
+	Multiple objectives could be established, from simply defeating the opponent, to securing a position, 
+
+	Brawl: Normal mode, Winning by defeating every other Servant.
+
+	Holy Grail War: Based on the Source Material, a Holy Grail is hidden in one of the Tiles. The Servant that finds it is greatly buffed, but if defeated the powerup passes to whoever dealt the killing blow.
+
+	Greater Grail War: Team mode, two or more factions clash against each other.
+
+	
