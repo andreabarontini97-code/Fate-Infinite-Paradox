@@ -1,0 +1,19 @@
+KEYBINDS
+
+Mouse:
+	Pointer: Free Movement
+	Mouse1: Select
+	Double Click Mouse1: Confirm Skill Use/Movement
+	Mouse2: Open Status Window
+	Mouse2 (With Open Status Window): Open Noble Phantasm (Final Blow) Details 
+
+Keyboard:
+
+	WASD: Tile-Specific Movement
+	Z: Buster (Offensive) Skill
+	X: Arts (Defensive) Skill
+	C: Quick (Movement) Skill
+	V: Noble Phantasm (Final Blow)
+	Enter: Confirm Skill Use/Movement
+	Spacebar: Open/Close Windows
+	Ctrl: Simplified Birdeye View Of Whole Map
